@@ -3,6 +3,6 @@ pandas
 SpeechRecognition
 groq
 python-dotenv
-pyaudio 
-openai  
-sounddevice 
+pyaudio
+openai
+sounddevice
