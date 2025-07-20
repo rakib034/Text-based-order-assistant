@@ -4,3 +4,5 @@ SpeechRecognition
 groq
 python-dotenv
 pyaudio 
+openai  
+sounddevice 
