@@ -3,5 +3,4 @@ pandas
 SpeechRecognition
 groq
 python-dotenv
-openai  # Required by `groq` package internally
 pyaudio 
